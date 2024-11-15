@@ -289,7 +289,7 @@ Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samta
 
 Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
 
-> Útgáfa 0.4
+> Útgáfa 0.5
 
 ---
 
@@ -301,3 +301,4 @@ Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20
 | 0.2    | Bæta við gögnum og skilgreiningu á þeim |
 | 0.3    | Lagfæringar á gögnum; kynning í f11     |
 | 0.4    | content.json => lectures.json           |
+| 0.5    | Bæta við myndum                         |
